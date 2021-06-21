@@ -6,3 +6,5 @@ We will learn more about
 * Pull Request
 * Branching
 * CI
+
+In the future we will extend this repo for learning advanced branching.
